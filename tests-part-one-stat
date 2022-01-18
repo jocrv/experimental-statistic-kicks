@@ -1,0 +1,546 @@
+We saw in the topic about the types of research that there are transversal, repeated transversal and longitudinal types. What is the best definition for repeated cross-sectional surveys?
+
+
+Survey carried out on only one occasion with random selection of respondents.
+
+right
+Research carried out on more than one occasion with the same variables being measured, for different samples.
+
+
+Research is called repeated transversal because it repeats the sample regardless of the number of existing occasions.
+
+
+Research carried out on, obligatorily, two collection occasions.
+
+
+Research carried out on more than one occasion with the same variables being measured, for the same samples.
+
+Answer Date: 01/17/2022 22:38:33
+
+Explanation:
+The correct answer is: Research carried out on more than one occasion with the same variables being measured, for different samples.
+
+
+
+
+ 
+
+two.
+There are several steps in building a survey, some major and some minor. In which part of the process is an analysis of what has been collected to measure, monitor and preserve data quality done?
+
+
+Assessment of the quality of estimates.
+
+
+Preparation of the Report.
+
+
+Evaluation of the initial questionnaire.
+
+right 
+Data Criticism.
+
+
+Sample selection.
+
+Answer Date: 01/17/2022 22:38:37
+
+Explanation:
+The correct answer is: Data criticism.
+
+Among the characteristics of the sample space, which of the definitions below best fits the theme?
+
+
+Sample space corresponds only to samples that were selected from the population.
+
+
+Sample space is the space where the samples that were selected can be obtained.
+
+
+Sample space is synonymous with probability of sample selection.
+
+
+It is the set of all possible and similar samples, of the same size n, that can be formed with the N elements of the population.
+
+Right
+It is the set of all possible and distinct samples, of the same size n, that can be formed with the N elements of the population.
+
+Answer Date: 01/17/2022 22:38:39
+
+Explanation:
+The correct answer is: It is the set of all possible and distinct samples, of the same size n, that can be formed with the N elements of the population.
+
+
+
+
+ 
+
+4.
+A survey aims at the total number of inhabitants in a state that has 80 municipalities. 10 municipalities are selected by AAS, which have, respectively: 100, 300, 200, 400, 500, 200, 350, 200, 400 and 250 thousand inhabitants. What is the estimated total population?
+
+
+^
+and
+ = 24,000,000 inhabitants
+
+
+^
+and
+ = 26,000,000 inhabitants
+
+
+^
+and
+ = 21,000,000 inhabitants
+
+
+^
+and
+ = 29,000,000 inhabitants
+
+right
+^
+^
+and
+ = 23 200,000 inhabitants
+
+Answer Date: 01/17/2022 22:38:42
+
+Explanation:
+The correct answer is:
+^
+^
+and
+ = 23 200,000 inhabitants
+
+ A study on the time of video game use was carried out in 4 courses at a University considering a stratified random sample. The population consisted of a list segmented into four strata, according to 4 types of course at the university. The following table shows the population (N) and sample (n) sizes, the sample mean
+¯¯¯
+and
+and the sample variance of the times (s
+two
+) corresponding to each stratum.
+
+
+
+The objective of the study is to estimate the average population time (in hours) of video game use. Considering all the strata, what is the estimate of the variance of the average sample time?
+
+Wrong
+0.007 hours
+two
+
+
+0.044 hours
+two
+
+Wrong
+ 0.021 hours
+two
+
+
+0.015 hours
+two
+
+
+0.011 hours
+two
+
+Answer Date: 01/17/2022 22:38:44
+
+Explanation:
+The correct answer is: 0.021 hours
+two
+
+The use of stratification brings a series of advantages both in sample selection and in the efficiency of estimates. Among the options below, which have only advantages of stratified sampling?
+
+
+It allows estimation for each research group and increases the sample size.
+
+right 
+It improves the accuracy of estimates and ensures sample selection in each stratum.
+
+
+Cuts the sample size in half and improves the accuracy of estimates.
+
+
+It allows a dependent selection in each stratum and decreases the sample size.
+
+
+It increases the variability of the research variables and guarantees the selection of samples in each stratum.
+
+Answer Date: 01/17/2022 22:38:47
+
+Explanation:
+The correct answer is: Improves the accuracy of estimates and ensures sample selection in each stratum.
+
+
+
+
+ 
+
+7.
+A population of size 4000 is divided into 40 distinct subpopulations. Through a random selection, 15 subpopulations are selected and all their elements are searched. This type of sampling is called:
+
+
+Systematic sampling
+
+
+Deterministic sampling
+
+
+Stratified sampling
+
+
+Two-stage cluster sampling
+
+Right
+One-stage cluster sampling
+
+Answer Date: 01/17/2022 22:38:50
+
+Explanation:
+The correct answer is: One-stage cluster sampling
+
+The Air Force of a Country has N = 10 airports with
+no
+i
+ planes each, with a total of
+M
+0
+ = 130 planes. Miles are recorded (
+T
+i
+) traveled by each plane in a given period. Let airports 2, 5, 3 and 7 be selected in the sample and
+T
+i
+ the miles recorded.
+
+
+
+What is the estimate of the total and average miles traveled by planes at the 10 airports in this country?
+
+Right
+The total estimate is 687.5 miles and the average is 5,288 miles.
+
+
+The total estimate is 687.5 miles and the average is 171.8 miles.
+
+
+The total estimate is 68.75 miles and the average is 171.8 miles.
+
+
+The total estimate is 275 miles and the average is 5,288 miles.
+
+
+The total estimate is 68.75 miles and the average is 17.18 miles.
+
+Answer Date: 01/17/2022 22:38:53
+
+Explanation:
+The correct answer is: The total estimate is 687.5 miles and the average is 5,288 miles.
+
+You have been contracted to select 3 winners of an award provided by a magazine. There were 5780 coupons filled out and added to the urn. After receiving the task you decide to use the sample function in RStudio with a seed equal to 4. What are the numbers obtained from the winners?
+
+What is said in:
+
+Wrong
+Coupons: 5624, 587, 2867
+
+
+Coupons: 2662, 5250, 5505
+
+
+Coupons: 2038, 4853, 4794
+
+
+Coupons: 307, 2360, 5182
+
+Wrong
+Coupons: 1795, 4167, 684
+
+Answer Date: 01/17/2022 22:38:56
+
+Explanation:
+The correct answer is: Coupons: 5624, 587, 2867
+
+Using the belgianmunicipalities base from the sampling package in RStudio, make estimates of the standard error of the mean for the variable Totaltaxation. Make the estimations with and without the correction factor for finite population using through an AAS of size 100. (use the seed with value 2).
+
+Tick ​​the correct option.
+
+
+The estimate of the standard error of the mean with the FPC is approximately 502531 euros and without the FPC it is around 5251824 euros.
+
+
+The estimate of the standard error of the mean with the FPC is approximately 5763860 euros and without the FPC it is around 5251824 euros.
+
+
+The estimate of the standard error of the mean with the FPC is approximately 5763860 euros and without the FPC it is around 502531 euros.
+
+
+The estimate of the standard error of the mean with the FPC is approximately 763860 euros and without the FPC it is around 502531 euros.
+
+Right
+The estimate of the standard error of the mean with the FPC is approximately 5251824 euros and without the FPC it is around 5763860 euros.
+
+Answer Date: 01/17/2022 22:38:58
+
+Explanation:
+The correct answer is: The estimate of the standard error of the mean with the FPC is approximately 5251824 euros and without the FPC it is around 5763860 euros.
+
+When conducting a sample survey, there are some fundamental conditions on the units to be selected. Which of the alternatives below correctly presents these conditions:
+
+
+Any type of sample allows the generalization of estimates to the population;
+
+
+The selection probability can be a negative or a positive quantity;
+
+
+The selection probability does not necessarily need to be known;
+
+
+The probability must be greater than zero and be known for each stock.
+
+
+Statistical inference can only be performed on non-probabilistic samples;
+
+
+Presenting some advantages over the census. Which of the options below represents two advantages in using sample surveys in relation to the Census:
+
+
+Collection speed and controlled precision.
+
+
+Low cost and increased collection load.
+
+
+High cost and controlled precision.
+
+
+Collection speed and zero accuracy.
+
+
+Small accuracy and high cost compared to census.
+
+
+From a population of 5 people (N = 5), the number of children each of them was asked, as shown in the table below:
+
+
+
+If the sample selected by AAS without replacement is s = (C, F, H) what is the estimate of the population mean?
+
+
+The estimated population mean is 2 children per person.
+
+
+The estimated population mean is 3 children per person.
+
+
+The population average estimate is 3.5 children per person.
+
+
+The population average estimate is 5 children per person.
+
+
+The estimated population mean is 4 children per person.
+
+A survey was conducted with n = 250 people among N = 10000 employees of a company and estimated that only 15% of employees were satisfied with the president. What is the standard error of the variance estimate of this population proportion estimate?
+
+
+AND
+P
+ 
+=
+0
+,
+04
+;
+
+
+AND
+P
+ 
+=
+0
+,
+010
+;
+
+
+AND
+P
+ 
+=
+0
+,
+022
+;
+
+
+AND
+P
+ 
+=
+0
+,
+140
+;
+
+
+AND
+P
+ 
+=
+0
+,
+50
+;
+
+
+
+A survey divided the population into three strata with N1=300, N2=400 and N3=500. The variability obtained was
+s
+1
+ = 2,
+s
+two
+ = 1 and
+s
+3
+ = 3. Assuming an error of V = 0.02, what sample size is needed to estimate a mean given a stratified sample with proportional allocation?
+
+
+Approximately n = 267.
+
+
+Approximately n = 210.
+
+
+Approximately n = 180.
+
+
+Approximately n=134.
+
+
+Approximately n = 150.
+
+A city government wants to estimate the total spending of its employees at the local mall. 3 strata were created according to the salary of the employees. Stratum 1: up to 3 minimum wages. Stratum 2: from 3 to 7 minimum wages and stratum 3 above 7 minimum wages. According to the city hall, there are 90 employees in stratum 1, 60 employees in stratum 2 and 30 employees in stratum 3. In addition, in previous surveys it is known that:
+
+s
+two
+1
+ =40000,
+s
+two
+two
+ =22500 and
+s
+two
+3
+ =10000.
+
+ Assuming a sampling error of 3% and a confidence level of 95%, what is approximately the minimum sample size to estimate total expenditure assuming optimal Neyman allocation?
+
+
+Approximately n = 110.
+
+
+Approximately n = 210.
+
+
+Approximately n = 79.
+
+
+Approximately n = 67.
+
+
+Approximately n = 81.
+
+
+Considering that the population's approach to the set of sampling units can be random, systematic or mixed, and that, among these structural arrangements, are the most usual sampling processes - simple random sampling, stratified sampling, systematic sampling and cluster sampling - which of the following statements is correct?
+
+
+The intra-cluster correlation coefficient (r) is defined as the degree of similarity between subunits within the cluster, and can assume values ​​in the range -1
+≤
+r
+≤
+1; therefore, when r is equal to 1, there will be no variance between the subunits of the clusters, and the total variance will be explained only by the intra-cluster variance.
+
+
+The intra-cluster correlation coefficient (r) is defined as the degree of similarity of the subunits between the clusters, and can assume values ​​in the range 0
+≤
+r
+≤
+1; therefore, when r is equal to 1, there will be no variance between the subunits of the clusters, and the total variance will be explained only by the variance within the clusters.
+
+
+The intra-cluster correlation coefficient (r) is defined as the degree of similarity between subunits within the cluster, and can assume values ​​in the range 0
+≤
+r
+≤
+1; therefore, when r is equal to 1, there will be no variance between the subunits of the clusters, and the total variance will be explained only by the variance between clusters.
+
+
+The intra-cluster correlation coefficient (r) is defined as the degree of difference between subunits within the cluster, and can assume any real value; therefore, the greater the total variance will be explained by the clusters.
+
+
+The intra-cluster correlation coefficient (r) is defined as the degree of similarity between subunits within the cluster, and can assume values ​​in the range 0
+≤
+r
+≤
+
+∞
+; then, when you order the
+∞
+;, the variance between the subunits of the clusters will be huge.
+
+To select a random sample of size n from a population consisting of N units, which are numbered from 1 to N in a certain order, one unit is randomly chosen from the first k units of the population, where k = N/n and selected- if every kth population unit in sequence. This sampling technique is called sampling.
+
+
+by quotas.
+
+
+systematic.
+
+
+storied.
+
+
+in stages.
+
+
+by conglomerates.
+
+From the base MU284, estimate the mean and its standard error for the variable REV84 - Real estate values ​​according to the 1984 valuation (in millions of SEK) for a stratified plan with allocation proportional to the size of the strata. Use a seed of 4 and a sample size of 70 in RStudio. Therefore, tick the correct option in millions.
+
+
+The population mean estimate is approximately 2537.6 euros with a standard error of around 271.18 euros.
+
+
+The population mean estimate is approximately 1537.6 euros with a standard error of around 271.18 euros.
+
+
+The population mean estimate is approximately 2537.6 euros with a standard error of around 233.72 euros.
+
+
+The population mean estimate is approximately 2203.3 euros with a standard error of approximately 233.72 euros.
+
+
+The population mean estimate is approximately 2203.3 euros with a standard error of approximately 271.18 euros.
+
+
+Read a database called belgianmunicipalities from the sampling package. It contains a series of information from various municipalities in Belgium. One of the variables is per capita income, on a basis called averageincome (in thousands). What is the estimate of the standard error of the mean for a uniformly allocated stratified sample of size 180? Estimate and find results with fpc and without fpc (use seed with value 7).
+
+
+The standard error of the mean with FPC is 207.99 euros and without FPC it is 239.81 euros.
+
+
+The standard error of the mean with FPC is 297.97 euros and without FPC it is 406.02 euros.
+
+
+The standard error of the mean with FPC is 282.73 euros and without FPC it is 239.81 euros.
+
+
+The standard error of the mean with FPC is 282.97 euros and without FPC it is 406.02 euros.
+
+
+The standard error of the mean with FPC is 207.99 euros and without FPC it is 282.97 euros.
